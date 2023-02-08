@@ -1,0 +1,44 @@
+[
+  {
+    "type": "Dough",
+    "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+    "price": "1.0",
+    "name": "Pâte nature"
+  },
+  {
+    "type": "Dough",
+    "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a12",
+    "price": "1.0",
+    "name": "Pâte aux amandes"
+  },
+  {
+    "type": "Topping",
+    "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a13",
+    "price": "0.5",
+    "name": "Assaisonnement caramel"
+  },
+  {
+    "type": "Topping",
+    "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a14",
+    "price": "0.5",
+    "name": "Assaisonnement noix de pécan"
+  },
+  {
+    "type": "Topping",
+    "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a15",
+    "price": "0.5",
+    "name": "Assaisonnement chocolat"
+  },
+  {
+    "type": "Flavor",
+    "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a16",
+    "price": "1.0",
+    "name": "Saveur caramel"
+  },
+  {
+    "type": "Flavor",
+    "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a17",
+    "price": "1.0",
+    "name": "Saveur caramel"
+  }
+]
